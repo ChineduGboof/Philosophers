@@ -1,4 +1,5 @@
 # philosophers
+![An_illustration_of_the_dining_philosophers_problem](https://user-images.githubusercontent.com/111196709/218946049-ef8cc909-55f3-406b-94ac-8787bb58a471.png)
 
 ***This project focuses on the basics of threading a process and how to work on the same memory space. We learned how to make `threads` and discover the `mutex`***
 
